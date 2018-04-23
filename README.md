@@ -1,0 +1,2 @@
+# cyber-gtfo
+CybeR || GTFO
