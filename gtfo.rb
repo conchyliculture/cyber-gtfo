@@ -75,6 +75,10 @@ __END__
 		  <label for="autocomplete-input">Search for cyber-</label>
         </form>
 		</div>
+        <div class="col s4">
+            <a href="https://github.com/conchyliculture/cyber-gtfo">Github</a>
+        </div>
+
 	</div>
   </div>
   <% @pictures.each_slice(4) do |group| %>
