@@ -68,7 +68,7 @@ __END__
   <div class="row">
     <h3>CybeR || GTFO</h3>
     <h6><i>Some <a href="https://nostarch.com/gtfo">wannabe hackers</a> wanted to bring back old electronics&computers Zines feels. Unfortunately they forgot to include any kind of cyber in there. This is a free repo of proper cyber illustration.
-        <a href="https://github.com/conchyliculture/cyber-gtfo">Github</a></i></h6>
+        <a href="https://github.com/conchyliculture/cyber-gtfo">Github for this terrible mess of code</a></i></h6>
   </div>
   <div class="row">
 	<form action="/search" class="input-field inline col s4">
