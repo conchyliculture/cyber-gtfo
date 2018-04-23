@@ -65,20 +65,16 @@ __END__
 </head>
 <body>
   <div id="container" style="width:80%;margin-left:15px">
-  <h4>Some <a href="https://nostarch.com/gtfo">wannabe hackers</a> wanted to bring back old electronic Zines feels. Unfortunately they forgot to include any kind of cyber in there. This is a free repo of proper cyber illustration.</h4>
-    <h1>Cyber || GTFO</h1>
   <div class="row">
-		<div class="input-field inline col s4">
-       <form action="/search">
-        Refresh the page for some random cyber, or search for cyber stuff:
-		  <input type="text" id="autocomplete-input" class="autocomplete" name="tags">
-		  <label for="autocomplete-input">Search for cyber-</label>
-        </form>
-		</div>
-        <div class="col s4">
-            <a href="https://github.com/conchyliculture/cyber-gtfo">Github</a>
-        </div>
-
+    <h3>CybeR || GTFO</h3>
+    <h6><i>Some <a href="https://nostarch.com/gtfo">wannabe hackers</a> wanted to bring back old electronic Zines feels. Unfortunately they forgot to include any kind of cyber in there. This is a free repo of proper cyber illustration.
+        <a href="https://github.com/conchyliculture/cyber-gtfo">Github</a></i></h6>
+  </div>
+  <div class="row">
+	<form action="/search" class="input-field inline col s4">
+      <input type="text" id="autocomplete-input" class="autocomplete" name="tags"/>
+      <label for="autocomplete-input">Refresh for random cyber, or search for some</label>
+    </form>
 	</div>
   </div>
   <% @pictures.each_slice(4) do |group| %>
