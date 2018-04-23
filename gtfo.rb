@@ -65,6 +65,7 @@ __END__
 </head>
 <body>
   <div id="container" style="width:80%;margin-left:15px">
+  <h4>Some wannabe hackers wanted to bring back old electronic Zines feels. Unfortunately they forgot to include any kind of cyber in there. This is a free repo of proper cyber illustration.</h4>
     <h1>Cyber || GTFO</h1>
   <div class="row">
 		<div class="input-field inline col s4">
